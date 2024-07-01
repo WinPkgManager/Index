@@ -2,6 +2,6 @@
     {
         "Name": "Package1",
         "Version": "1.0.0",
-        "Url": "https://github.com/WinPkgManager/Packages/blob/main/BetterProperties.exe?raw=true"
+        "Url": "https://raw.githubusercontent.com/WinPkgManager/Packages/main/BetterProperties.exe"
     }
 ]
